@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # APT2 install and requirements:
 # The following steps will ensure the apt2 will run.
 # It does not ensure that all of the tools are installed,

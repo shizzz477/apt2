@@ -5,6 +5,7 @@ from core.events import EventHandler
 from core.keystore import KeyStore as kb
 from core.packetcap import pktcap
 
+
 class actionModule(object):
     seentargets = dict()
 
